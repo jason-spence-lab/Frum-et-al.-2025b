@@ -19,6 +19,6 @@ We present a comprehensive atlas of human esophageal development, integrating si
 
 
 Single Cell RNA-seq data available at:
-Adult: https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-12266?
-Fetal: https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-10187
+Adult Esophagus: https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-12266
+Fetal Esophagus: https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-10187
 In Vitro: Zenodo
