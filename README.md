@@ -1,6 +1,7 @@
 This Repository is Code in the R Programming Language for Analyzing Data and Generating Figures in:
 
 Suspension-Based Human Esophagoids Recapitulate WNT2B-Dependent Regulation of Esophageal Basal Progenitors
+
 Tristan Frum1, Kelli Johnson1, Noah Etzioni10-11, Gabriela Rivera10-11, Andrea P. Álvarez-Maldonado2, Helena M. Yllescas-Lopez1-2, David E. Bayer1, Zhiwei Xiao1, Madeline K. Eiken1,7, Claudia Loebel7-9, Joshua H. Wu1, Yu-Hwai Tsai1, Angeline Wu1, Charles J. Zhang1,5, Michael K. Dame1, Ashley J Cuttitta1, Hana Ho7, Dominic J Tigani1, Jonathan Sexton1,4,5, Venkata S. Dasuri6, Nicholas Makogonov6, Amy E. O’Connell6, Jason R. Spence*1-4, Daysha Ferrer-Torres*10-12
 
 1Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Medical School, Ann Arbor, Michigan
